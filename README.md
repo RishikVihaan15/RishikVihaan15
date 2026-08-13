@@ -83,19 +83,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RishikVihaan15&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RishikVihaan15&layout=compact&theme=radical&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=RishikVihaan15&theme=radical&hide_border=true" />
-</p>
-
----
-
 ## ⚡ Fun Fact
 
 I don't just study AI — I ship it. Every project on this profile is built, deployed, and production-ready. 🚀
