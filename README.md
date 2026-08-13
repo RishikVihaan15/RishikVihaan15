@@ -11,11 +11,10 @@
 
 ## 🚀 About Me
 
-- 🎓 3rd Year BTech CSE @ **RV University, Bengaluru** (CGPA: 8.0) — graduating 2027
+- 🎓 Final Year (4th Year) BTech CSE @ **RV University, Bengaluru** (CGPA: 7.82) — graduating 2027
 - 🤖 Building production-grade **AI/ML systems** — RAG pipelines, multi-agent frameworks, LLM integrations
 - 🏢 **Placement Coordinator** for the 2027 batch at RV University
 - 💼 Interned at **Easylib Software Pvt. Ltd.** — built AI agents in a real product environment
-- 🏆 Competitive programmer on **Codeforces** (100+ problems solved)
 - 📫 Reach me at **rishikvihaaninfinity@gmail.com**
 
 ---
